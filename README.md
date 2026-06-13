@@ -3,8 +3,8 @@
 I'm Mahelaqua Khanum,Business Analyst | BI Analyst
 Specializing in People Analytics, AI, and UX Design.
 Building data-driven solutions with SQL and Power BI. 
-in India <img width="498" height="280" alt="AnthemGIF (2)" src="https://github.com/user-attachments/assets/53041d69-0e57-4be7-be22-b7aa41202487" />
 
+In India  
 .
 
 <br>
