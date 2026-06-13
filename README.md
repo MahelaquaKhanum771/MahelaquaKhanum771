@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I'm Mahelaqua Khanum,Business Analyst | BI Analyst
+I'm Mahelaqua Khanum
+
+<br>
+Business Analyst | BI Analyst
 Specializing in People Analytics, AI, and UX Design.
 Building data-driven solutions with SQL and Power BI. 
 
-In India  
-.
+<br>
+In India | Open to Relocate  
 
 <br>
 I mostly work on both user Interface and user Expereince design - wireframe, prototype, motion graphic etc.
